@@ -19,10 +19,6 @@ for student in t_students:
     students.append(str(t_students[i]).replace('\n',''))
     i+=1	
 
-#TEXT = """%s    page %d of %d
-#a wonderful file
-#created with Sample_Code/makesimple.py"""
-
 width=8.5
 height=11
 
@@ -37,7 +33,6 @@ def make_pdf_file(output_filename, np):
         v = 10 * inch
 	TEXT = students[j]
 	j+=1
-        #for subtline in (TEXT % (output_filename, pn, np)).split( '\n' ):
         for subtline in (TEXT).split( '\n' ):
             c.setFont("Helvetica", font_size * point) 
             c.rotate(90)
