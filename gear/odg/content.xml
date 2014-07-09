@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" office:version="1.0">
+<office:scripts/>
+<office:automatic-styles>
+<style:style style:name="dp1" style:family="drawing-page"/>
+<style:style style:name="gr1" style:family="graphic" style:parent-style-name="standard">
+ <style:graphic-properties draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle"/>
+</style:style>
+<style:style style:name="P1" style:family="paragraph">
+<style:paragraph-properties fo:text-align="center"/>
+</style:style>
+</office:automatic-styles>
+<office:body>
+<office:drawing>
+<draw:page draw:name="page1" draw:style-name="dp1" draw:master-page-name="Default">
+<office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.834761cm" svg:y1="0.834761cm" svg:x2="1.034761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.034761cm" svg:y1="0.834761cm" svg:x2="0.834761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.469521cm" svg:y1="0.934761cm" svg:x2="1.567746cm" svg:y2="0.982196cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.567746cm" svg:y1="0.982196cm" svg:x2="1.547892cm" svg:y2="1.099049cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.547892cm" svg:y1="1.099049cm" svg:x2="1.439512cm" svg:y2="1.111381cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.439512cm" svg:y1="1.111381cm" svg:x2="1.397877cm" svg:y2="1.202141cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.834761cm" svg:y1="0.834761cm" svg:x2="1.034761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.034761cm" svg:y1="0.834761cm" svg:x2="0.834761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.397877cm" svg:y1="1.202141cm" svg:x2="1.459224cm" svg:y2="1.292334cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.459224cm" svg:y1="1.292334cm" svg:x2="1.383604cm" svg:y2="1.383604cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.383604cm" svg:y1="1.383604cm" svg:x2="1.283578cm" svg:y2="1.340094cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.283578cm" svg:y1="1.340094cm" svg:x2="1.202141cm" svg:y2="1.397877cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.834761cm" svg:y1="0.834761cm" svg:x2="1.034761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.034761cm" svg:y1="0.834761cm" svg:x2="0.834761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.202141cm" svg:y1="1.397877cm" svg:x2="1.210173cm" svg:y2="1.506660cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.210173cm" svg:y1="1.506660cm" svg:x2="1.099049cm" svg:y2="1.547892cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.099049cm" svg:y1="1.547892cm" svg:x2="1.034179cm" svg:y2="1.460198cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.034179cm" svg:y1="1.460198cm" svg:x2="0.934761cm" svg:y2="1.469521cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.834761cm" svg:y1="0.834761cm" svg:x2="1.034761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.034761cm" svg:y1="0.834761cm" svg:x2="0.834761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.934761cm" svg:y1="1.469521cm" svg:x2="0.887325cm" svg:y2="1.567746cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.887325cm" svg:y1="1.567746cm" svg:x2="0.770472cm" svg:y2="1.547892cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.770472cm" svg:y1="1.547892cm" svg:x2="0.758140cm" svg:y2="1.439512cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.758140cm" svg:y1="1.439512cm" svg:x2="0.667380cm" svg:y2="1.397877cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.834761cm" svg:y1="0.834761cm" svg:x2="1.034761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.034761cm" svg:y1="0.834761cm" svg:x2="0.834761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.667380cm" svg:y1="1.397877cm" svg:x2="0.577187cm" svg:y2="1.459224cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.577187cm" svg:y1="1.459224cm" svg:x2="0.485917cm" svg:y2="1.383604cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.485917cm" svg:y1="1.383604cm" svg:x2="0.529427cm" svg:y2="1.283578cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.529427cm" svg:y1="1.283578cm" svg:x2="0.471644cm" svg:y2="1.202141cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.834761cm" svg:y1="0.834761cm" svg:x2="1.034761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.034761cm" svg:y1="0.834761cm" svg:x2="0.834761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.471644cm" svg:y1="1.202141cm" svg:x2="0.362861cm" svg:y2="1.210173cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.362861cm" svg:y1="1.210173cm" svg:x2="0.321629cm" svg:y2="1.099049cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.321629cm" svg:y1="1.099049cm" svg:x2="0.409323cm" svg:y2="1.034179cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.409323cm" svg:y1="1.034179cm" svg:x2="0.400000cm" svg:y2="0.934760cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.834761cm" svg:y1="0.834761cm" svg:x2="1.034761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.034761cm" svg:y1="0.834761cm" svg:x2="0.834761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.400000cm" svg:y1="0.934761cm" svg:x2="0.301775cm" svg:y2="0.887325cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.301775cm" svg:y1="0.887325cm" svg:x2="0.321629cm" svg:y2="0.770472cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.321629cm" svg:y1="0.770472cm" svg:x2="0.430009cm" svg:y2="0.758140cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.430009cm" svg:y1="0.758140cm" svg:x2="0.471644cm" svg:y2="0.667380cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.834761cm" svg:y1="0.834761cm" svg:x2="1.034761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.034761cm" svg:y1="0.834761cm" svg:x2="0.834761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.471644cm" svg:y1="0.667380cm" svg:x2="0.410297cm" svg:y2="0.577187cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.410297cm" svg:y1="0.577187cm" svg:x2="0.485917cm" svg:y2="0.485917cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.485917cm" svg:y1="0.485917cm" svg:x2="0.585943cm" svg:y2="0.529427cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.585943cm" svg:y1="0.529427cm" svg:x2="0.667380cm" svg:y2="0.471644cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.834761cm" svg:y1="0.834761cm" svg:x2="1.034761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.034761cm" svg:y1="0.834761cm" svg:x2="0.834761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.667380cm" svg:y1="0.471644cm" svg:x2="0.659348cm" svg:y2="0.362861cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.659348cm" svg:y1="0.362861cm" svg:x2="0.770472cm" svg:y2="0.321629cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.770472cm" svg:y1="0.321629cm" svg:x2="0.835343cm" svg:y2="0.409323cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.835343cm" svg:y1="0.409323cm" svg:x2="0.934761cm" svg:y2="0.400000cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.834761cm" svg:y1="0.834761cm" svg:x2="1.034761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.034761cm" svg:y1="0.834761cm" svg:x2="0.834761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.934761cm" svg:y1="0.400000cm" svg:x2="0.982196cm" svg:y2="0.301775cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.982196cm" svg:y1="0.301775cm" svg:x2="1.099049cm" svg:y2="0.321629cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.099049cm" svg:y1="0.321629cm" svg:x2="1.111381cm" svg:y2="0.430009cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.111381cm" svg:y1="0.430009cm" svg:x2="1.202141cm" svg:y2="0.471644cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.834761cm" svg:y1="0.834761cm" svg:x2="1.034761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.034761cm" svg:y1="0.834761cm" svg:x2="0.834761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.202141cm" svg:y1="0.471644cm" svg:x2="1.292334cm" svg:y2="0.410297cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.292334cm" svg:y1="0.410297cm" svg:x2="1.383604cm" svg:y2="0.485917cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.383604cm" svg:y1="0.485917cm" svg:x2="1.340094cm" svg:y2="0.585943cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.340094cm" svg:y1="0.585943cm" svg:x2="1.397877cm" svg:y2="0.667380cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="0.834761cm" svg:y1="0.834761cm" svg:x2="1.034761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.034761cm" svg:y1="0.834761cm" svg:x2="0.834761cm" svg:y2="1.034761cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.397877cm" svg:y1="0.667380cm" svg:x2="1.506660cm" svg:y2="0.659349cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.506660cm" svg:y1="0.659349cm" svg:x2="1.547892cm" svg:y2="0.770473cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.547892cm" svg:y1="0.770473cm" svg:x2="1.460198cm" svg:y2="0.835343cm">
+<text:p/>
+</draw:line>
+<draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.460198cm" svg:y1="0.835343cm" svg:x2="1.469521cm" svg:y2="0.934761cm">
+<text:p/>
+</draw:line>
+</draw:page>
+</office:drawing>
+</office:body>
+</office:document-content>
