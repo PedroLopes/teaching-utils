@@ -5,7 +5,7 @@ This is a collection of scripts I use to automate teaching tasks. It includes th
 
 ## grade email sender (takes a csv with grades, comments and emails that to students)
 
-1. ``sendgrades.py```: this (python) script takes a takes a csv with grades, comments and emails that to students using google email API (requires you to setup your API credentials). This is my favorite script and I use it 100x a year.
+1. ``sendgrades.py``: this (python) script takes a takes a csv with grades, comments and emails that to students using google email API (requires you to setup your API credentials). This is my favorite script and I use it 100x a year.
 
 ## automatic unziping (e.g., from Google Forms/Drive submissions)
 
