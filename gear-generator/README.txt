@@ -1,15 +1,12 @@
 ===What is this?
 
-This is source code (C code) for a very simple, yet powerful, grew generator. 
-
+This is source code (C code) for a very simple gear generator. 
 
 ===How did you make it?
 
-This is a derived code from the project below. It seems to have been lost in the mist of the interwebz, so I guess this tiny project also aims at keeping it alive. 
+This is a derived code from the project below (by Dries Pruimboom). It seems to have been lost in the mist of the interwebz, so I guess this tiny project also aims at keeping it alive. 
 
-Which means… license remains as bellow (original README below).
-
-End.
+Which means that the license remains as bellow (original README was included below).
 
 =============================================================================
 
@@ -59,10 +56,3 @@ Good luck
 
     Dries Pruimboom
       dries at quicknet.nl
-    
-
-
-
-
-
-  
