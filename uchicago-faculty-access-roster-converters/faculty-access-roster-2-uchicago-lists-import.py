@@ -20,13 +20,14 @@ with open(roster) as csvfile:
         if debug:
             print("\tNew row (email):\t" + row['Email'])
             print("\tFirstName:\t\t" + row['FirstName'])
-            print("\tPreferredName:\t\t" + row['PreferredName'])
+            #print("\tPreferredName:\t\t" + row['PreferredName'])
             print("\tLastName:\t\t" + row['LastName'])
         username = ""
-        if row['PreferredName'] != "":
-            username = row['PreferredName'].replace(" ", "") + row['LastName'].replace(" ", "")
-        else:
-            username = row['FirstName'].replace(" ", "") + row['LastName'].replace(" ", "")
+        # as of 2026, PreferredName was disabled
+        #if row['PreferredName'] != "":
+        #    username = row['PreferredName'].replace(" ", "") + row['LastName'].replace(" ", "")
+        #else:
+        username = row['FirstName'].replace(" ", "") + row['LastName'].replace(" ", "")
         print(row['Email'] + " " + username)
     print("---------------------------------")
     print("Done, processed " + str(count) + " entries from " + str(roster))  
