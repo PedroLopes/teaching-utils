@@ -10,6 +10,7 @@ args = parser.parse_args()
 
 debug = args.debug
 roster = args.roster_file
+only_emails = False
 
 with open(roster) as csvfile:
     reader = csv.DictReader(csvfile)
@@ -28,6 +29,9 @@ with open(roster) as csvfile:
         #    username = row['PreferredName'].replace(" ", "") + row['LastName'].replace(" ", "")
         #else:
         username = row['FirstName'].replace(" ", "") + row['LastName'].replace(" ", "")
-        print(row['Email'] + " " + username)
+        if only_emails: 
+            print(row['Email'])
+        else:
+            print(row['Email'] + " " + username)
     print("---------------------------------")
     print("Done, processed " + str(count) + " entries from " + str(roster))  

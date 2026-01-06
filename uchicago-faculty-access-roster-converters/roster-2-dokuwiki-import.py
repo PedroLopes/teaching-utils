@@ -28,14 +28,14 @@ with open(roster) as csvfile:
         if debug:
             print("\tNew row (email):\t" + row['Email'])
             print("\tFirstName:\t\t" + row['FirstName'])
-            print("\tPreferredName:\t\t" + row['PreferredName'])
+            #print("\tPreferredName:\t\t" + row['PreferredName'])
             print("\tLastName:\t\t" + row['LastName'])
-        if row['PreferredName'] != "":
-            username = row['PreferredName'].replace(" ", "") + row['LastName'].replace(" ", "")
-            fullname = "\"" + row['PreferredName'] + " " + row['LastName'] + "\"" 
-        else:
-            username = row['FirstName'].replace(" ", "") + row['LastName'].replace(" ", "")
-            fullname = "\"" + row['FirstName'] + " " + row['LastName'] + "\"" 
+        #if row['PreferredName'] != "": #as of 2026 PreferredName was removed?
+        #    username = row['PreferredName'].replace(" ", "") + row['LastName'].replace(" ", "")
+        #    fullname = "\"" + row['PreferredName'] + " " + row['LastName'] + "\"" 
+        #else:
+        username = row['FirstName'].replace(" ", "") + row['LastName'].replace(" ", "")
+        fullname = "\"" + row['FirstName'] + " " + row['LastName'] + "\"" 
         print(username.lower().strip() + ", " + fullname.strip() + ", " + row['Email'].strip() + ", " + "user")
         output.write(username.lower().strip() + "," + fullname.strip() + "," + row['Email'].strip() + "," + "\"user\"")
         output.write("\n")
